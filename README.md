@@ -1,16 +1,107 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Bhudev Bhanwar</h1>
+<h3 align="center">Computer Science Undergraduate | Web Development | Data Structures & Algorithms </h3>
 
-<!--
-**bhudev0905/bhudev0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+Web+Development;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student @ NSUT
+- 💻 Currently learning **Web Development**
+- 🌱 Building projects to improve problem-solving and development skills
+- 📚 Solving Data Structures & Algorithms problems regularly
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=bhudev0905&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhudev0905&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🍲 RecipeHub | React-based recipe application |
+| 💰 Expense Tracker | Expense management web application |
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/bhudev0905">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/bhudev0905">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bhudevbhanwar048@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+
+<p align="center">
+Keep Learning • Keep Building • Keep Growing 🚀
+</p>
