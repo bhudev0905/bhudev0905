@@ -1,9 +1,9 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Bhudev Bhanwar</h1>
-<h3 align="center">Computer Science Undergraduate | Web Development | Data Structures & Algorithms </h3>
+<h3 align="center">Computer Science Undergraduate | Web Development | AI | Data Structures & Algorithms </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Learning+Web+Development;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Development;AI;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,7 +22,9 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,js" />
+</p>
 </p>
 
 ### Frontend
@@ -81,20 +83,16 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-
-<a href="https://github.com/bhudev0905">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/bhudev0905">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:bhudevbhanwar048@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+<p align="left">
+  <a href="https://github.com/bhudev0905">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/bhudev0905">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:bhudevbhanwar048@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
 
