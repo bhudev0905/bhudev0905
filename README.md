@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🎓 B.Tech CSE Student @ NSUT
 - 💻 Currently learning **Web Development**
